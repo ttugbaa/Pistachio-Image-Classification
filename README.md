@@ -1,9 +1,8 @@
 # Pistachio Image Classification
 This study aims to identify these two types of pistachios, which are frequently grown in Turkey, by classifying them via convolutional neural networks(CNN).
-There are a total of 2148 images, 1232 of which are Red pistachios, 916 of which are Siirt pistachios.
+There are a total of 2148 images, 1232 of which are Kirmizi pistachios, 916 of which are Siirt pistachios.
 
 In order to determine the most suitable classification model, the most successful model was determined via classification performed by using different CNN architectures.
-
 <table>
 <thead>
 <tr class="header">
