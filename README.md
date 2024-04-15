@@ -32,5 +32,7 @@ In order to determine the most suitable classification model, the most successfu
 </table>
 
 VGG16 Model: It can be said that the model did not perform well during the training process and struggled to accurately distinguish between the classes in the dataset.
+
 ResNet50 Model: These results suggest that ResNet50, with its more complex architecture, outperforms VGG16. The model is better able to learn patterns within the dataset.
+
 Xception Model: These results demonstrate that the Xception model performs the best among the three models, indicating superior learning of patterns within the dataset.
